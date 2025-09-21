@@ -20,9 +20,11 @@ project-root/
 ├── contact.html # Contact / Investment
 
 ├── css/
+
 │ └── style.css # Global stylesheet
 
 ├── js/
+
 │ └── script.js # JavaScript interactivity & form validation
 
 ├── images/ # Image assets
@@ -50,8 +52,11 @@ It provides visitors with project details, roadmap, and an interactive way to ge
 ## 🧭 Navigation Structure
 Home
 ├── About
+
 ├── Services
+
 ├── Impact
+
 └── Contact
 
 All pages include a **consistent navigation menu** in the header for smooth movement between sections.  
@@ -85,36 +90,13 @@ All pages include a **consistent navigation menu** in the header for smooth move
 - Interactive enhancements  
 
 ---
-
-## 🚀 Deployment
-This site can be deployed using **GitHub Pages, Netlify, or Vercel**.  
-
-**Deployment Steps:**  
-1. Push code to GitHub repository  
-2. Connect to deployment platform (e.g., Netlify)  
-3. Enable automatic builds from the main branch  
-4. (Optional) Configure custom domain  
+ 
 
 👉 Live URL: *(Add your hosted project link here once deployed)*  
 
 ---
 
-## 📱 Browser Compatibility
-Tested and works correctly on:  
-- Chrome (latest)  
-- Firefox (latest)  
-- Safari (latest)  
-- Edge (latest)  
-
----
-
-## 🔧 Development
-To modify or extend this project:  
-1. Clone the repository  
-2. Edit HTML, CSS, or JS files  
-3. Test across multiple screen sizes and browsers  
-4. Commit and push changes to GitHub  
-5. Deployed site updates automatically (if CI/CD enabled)  
+ 
 
 ---
 
