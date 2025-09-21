@@ -94,7 +94,8 @@ All pages include a **consistent navigation menu** in the header for smooth move
 ---
  
 
-👉 Live URL: (AgriLink)[https://johnnkakuyia.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/] 
+👉 Live URL:Live URL: [AgriLink](https://johnnkakuyia.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)
+
 
 ---
 
