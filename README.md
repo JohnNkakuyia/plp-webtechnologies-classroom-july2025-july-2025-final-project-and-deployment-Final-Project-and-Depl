@@ -1,4 +1,4 @@
-# Project ReadMe: Multipage Website
+#  🌱 AgriLink 
 
 🌟 Project Overview  
 This project is a responsive, interactive multipage website built with **HTML5, CSS, and JavaScript**.  
@@ -8,16 +8,25 @@ The website serves as a **portfolio/product showcase** designed to present **Agr
 
 ## 📁 Project Structure
 project-root/
+
 ├── index.html # Home page
+
 ├── about.html # Problem & Solution
+
 ├── services.html # Tech Stack & Roadmap
+
 ├── impact.html # Project Impact
+
 ├── contact.html # Contact / Investment
+
 ├── css/
 │ └── style.css # Global stylesheet
+
 ├── js/
 │ └── script.js # JavaScript interactivity & form validation
+
 ├── images/ # Image assets
+
 └── README.md # This file
 
 
