@@ -1,6 +1,7 @@
 #  🌱 AgriLink 
 
-🌟 Project Overview  
+**🌟 Project Overview**
+
 This project is a responsive, interactive multipage website built with **HTML5, CSS, and JavaScript**.  
 The website serves as a **portfolio/product showcase** designed to present **AgriLink – Smart Farming & Market Access Platform** and provide an engaging user experience across all devices.  
 
@@ -51,6 +52,7 @@ It provides visitors with project details, roadmap, and an interactive way to ge
 
 ## 🧭 Navigation Structure
 Home
+
 ├── About
 
 ├── Services
